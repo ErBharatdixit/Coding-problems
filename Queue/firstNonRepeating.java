@@ -1,4 +1,5 @@
 import java.util.*;
+import java.util.LinkedList;
 class firstNonRepeating{
 
       public static void printnonRepeating(String str){

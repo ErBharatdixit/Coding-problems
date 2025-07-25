@@ -27,6 +27,6 @@ class ReverseStack{
             s.push(2);
             s.push(3);
 
-            reverse(s);
+            Reverse(s);
       }
 }

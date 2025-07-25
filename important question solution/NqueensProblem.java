@@ -67,7 +67,7 @@ public class NqueensProblem {
 
     public static void main(String[] args) {  
         NqueensProblem nQueens = new NqueensProblem();  
-        int n = 4; // Example: for 4 queens  
+        int n = 5; // Example: for 5 queens  
         List<List<String>> solutions = nQueens.solveNQueens(n);  
         
         System.out.println("Solutions for " + n + " queens:");  
