@@ -1,1 +1,0 @@
-  int num = arr[i]-'0';
