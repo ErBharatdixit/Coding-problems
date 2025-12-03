@@ -1,0 +1,55 @@
+  # 💥 Top Frequently Asked Coding Questions
+
+## 🔹 String-based
+- Reverse a string (with or without using built-in functions)
+- Check if a string is a palindrome
+- Find the first non-repeating character in a string
+- Count occurrences of each character in a string
+- Check if two strings are anagrams
+
+---
+
+## 🔹 Array-based
+- Find the maximum and minimum element in an array
+- Find the second largest element
+- Reverse an array
+- Check if an array is sorted
+- Find duplicates in an array
+- Move all zeros to the end
+- Kadane’s Algorithm → Maximum subarray sum
+
+---
+
+## 🔹 Number-based
+- Check if a number is prime
+- Find factorial of a number
+- Check for Armstrong number
+- Reverse a number
+- Check if a number is palindrome
+- Convert decimal ↔ binary
+
+---
+
+## 🔹 Logical / Pattern-based
+- Fibonacci series (iterative & recursive)
+- Find GCD / LCM of two numbers
+- Print patterns (like triangles, pyramids, stars)
+
+---
+
+## 🔹 Data Structures (Intermediate)
+- Implement a stack/queue using arrays or linked lists
+- Check for balanced parentheses using stack
+- Find middle element of a linked list
+- Detect loop in a linked list
+- Reverse a linked list
+
+---
+
+## 🔹 Miscellaneous
+- Two Sum problem (find 2 numbers that add to target)
+- Merge two sorted arrays
+- Find missing number in array from 1 to n
+- Count frequency of elements using HashMap
+- Binary search / Linear search
+
